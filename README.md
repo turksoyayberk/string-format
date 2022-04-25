@@ -33,3 +33,6 @@ Parabola formula is y = ax^2 + bx + c
 Please enter coefficients a, b and c:1 -6 2
 
 
+![parabola](https://user-images.githubusercontent.com/84626969/165095537-27f5354a-0465-44ae-bc69-393c892d53af.png)
+
+
